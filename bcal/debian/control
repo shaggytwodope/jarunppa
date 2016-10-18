@@ -6,7 +6,7 @@ Maintainer: Johnathan Jenkins <twodopeshaggy@gmail.com>
 Standards-Version: 3.9.2
 Homepage: https://github.com/jarun/bcal/
 Vcs-Git: git://git@github.com:jarun/bcal.git
-Vcs-Browser: https://sagetarian@github.com/jarun/bcal.git
+Vcs-Browser: https://github.com/jarun/bcal.git
 
 Package: bcal
 Depends: ${shlibs:Depends}, ${misc:Depends}

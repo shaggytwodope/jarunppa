@@ -6,7 +6,7 @@ Maintainer: Johnathan Jenkins <twodopeshaggy@gmail.com>
 Standards-Version: 3.9.2
 Homepage: https://github.com/jarun/googler/
 Vcs-Git: git://git@github.com:jarun/googler.git
-Vcs-Browser: https://sagetarian@github.com/jarun/googler.git
+Vcs-Browser: https://github.com/jarun/googler.git
 
 Package: googler
 Depends: ${shlibs:Depends}, ${misc:Depends}, python3 (>= 3.3)

@@ -1,0 +1,24 @@
+#!/usr/bin/make -f
+%:
+	dh $@ 
+
+clean:
+	dh_clean
+
+
+binary-arch: clean
+	dh_prep
+	dh_installdirs
+	dh_install imgp /usr/bin/
+	gzip -c imgp.1 > imgp.1.gz
+	dh_install imgp.1.gz /usr/share/man/man1
+	dh_install README.md /usr/share/doc/imgp
+	dh_strip
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-arch

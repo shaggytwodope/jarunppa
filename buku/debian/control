@@ -6,7 +6,7 @@ Maintainer: Johnathan Jenkins <twodopeshaggy@gmail.com>
 Standards-Version: 3.9.2
 Homepage: https://github.com/jarun/buku/
 Vcs-Git: git://git@github.com:jarun/buku.git
-Vcs-Browser: https://sagetarian@github.com/jarun/buku.git
+Vcs-Browser: https://github.com/jarun/buku.git
 
 Package: buku
 Depends: ${shlibs:Depends}, ${misc:Depends}, python3 (>= 3.3), python3-crypto, python3-bs4
