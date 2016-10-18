@@ -1,6 +1,4 @@
 #!/usr/bin/make -f
-PKGDIR=debian/googler
-export GOPATH=$(CURDIR)
 %:
 	dh $@ 
 
