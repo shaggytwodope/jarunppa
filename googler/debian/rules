@@ -1,9 +1,26 @@
 #!/usr/bin/make -f
 PKGDIR=debian/googler
-
+export GOPATH=$(CURDIR)
 %:
-	dh \$@
+	dh $@ 
 
-override_dh_auto_install:
-	$(MAKE) DESTDIR=$(PKGDIR) PREFIX=/usr install
-	cp -p ${(q-)copyright_file} $(PKGDIR)/usr/share/doc/$pkgname/copyright
+clean:
+	dh_clean
+
+
+binary-arch: clean
+	dh_prep
+	dh_installdirs
+	dh_install googler /usr/bin/
+	gzip -c googler.1 > googler.1.gz
+	dh_install googler.1.gz /usr/share/man/man1
+	dh_install README.md /usr/share/doc/googler
+	dh_strip
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-arch

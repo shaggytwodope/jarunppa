@@ -8,7 +8,6 @@ Homepage: https://github.com/jarun/googler/
 Vcs-Git: git://git@github.com:jarun/googler.git
 Vcs-Browser: https://sagetarian@github.com/jarun/googler.git
 
-Version: 2.8
 Package: googler
 Depends: ${shlibs:Depends}, ${misc:Depends}, python3 (>= 3.3)
 Architecture: all
