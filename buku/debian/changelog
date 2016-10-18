@@ -1,3 +1,9 @@
+buku (2.4-1) wily; urgency=medium
+
+  * Fix depends
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 18 Oct 2016 08:22:31 -0400
+
 buku (2.4-0) wily; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
