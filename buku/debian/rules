@@ -9,11 +9,10 @@ clean:
 binary-arch: clean
 	dh_prep
 	dh_installdirs
-	make disable-self-upgrade
-	dh_install googler /usr/bin/
-	gzip -c googler.1 > googler.1.gz
-	dh_install googler.1.gz /usr/share/man/man1
-	dh_install README.md /usr/share/doc/googler
+	dh_install buku /usr/bin/
+	gzip -c buku.1 > buku.1.gz
+	dh_install buku.1.gz /usr/share/man/man1
+	dh_install README.md /usr/share/doc/buku
 	dh_strip
 	dh_compress
 	dh_fixperms

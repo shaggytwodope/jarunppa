@@ -1,3 +1,9 @@
+googler (2.8-1) wily; urgency=medium
+
+  * published release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 18 Oct 2016 09:41:52 -0400
+
 googler (2.8) wily; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
