@@ -1,3 +1,15 @@
+buku (2.5-1) trusty; urgency=medium
+
+  * Missing Dependacy
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 20 Oct 2016 02:59:47 -0400
+
+buku (2.5-0) precise; urgency=medium
+
+  * 2.5 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 20 Oct 2016 02:39:47 -0400
+
 buku (2.4-1) wily; urgency=medium
 
   * Fix depends
