@@ -10,6 +10,6 @@ Vcs-Browser: https://github.com/jarun/bcal.git
 
 Package: bcal
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Architecture: amd64 i386 armel armhf arm64
+Architecture: amd64
 Description: Byte CALculator. The engineer's utility for storage conversions and calculations.
  See https://github.com/jarun/bcal#readme.

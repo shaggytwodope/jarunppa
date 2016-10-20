@@ -1,3 +1,15 @@
+bcal (1.4-2) trusty; urgency=medium
+
+  * 32bit broken
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 20 Oct 2016 08:44:45 -0400
+
+bcal (1.4-1) trusty; urgency=medium
+
+  * fix arch list
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 20 Oct 2016 08:44:45 -0400
+
 bcal (1.4-0) wily; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
