@@ -1,3 +1,9 @@
+googler (2.9-0) yakkety; urgency=medium
+
+  * 2.9 release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sun, 18 Dec 2016 11:42:32 -0800
+
 googler (2.8-1) wily; urgency=medium
 
   * published release
