@@ -2,15 +2,15 @@ Format: 0.2
 Source: buku
 Binary: buku
 Architecture: source
-Version: 2.9-2
+Version: 2.9.0-1
 Checksums-Md5:
- 14128ce581108a2bb907f69db39ef9c7 868 buku_2.9-2.dsc
+ f34685f2b85307c1aa47a50d21b534e8 882 buku_2.9.0-1.dsc
 Checksums-Sha1:
- 3dcff8c1efbab0ac8c45b3705335c9937003043e 868 buku_2.9-2.dsc
+ 27842dd2bfa5b39d10f875900efa1f56f0409a00 882 buku_2.9.0-1.dsc
 Checksums-Sha256:
- 64d5cc7dc2f3fdc7759cb77ae496f50a2e45ec4a4323b6bc1b996bf93316208f 868 buku_2.9-2.dsc
+ 3dfc52c67d659db290273dd6fd205d26662da6d430286fa246ac6fe8bd50d565 882 buku_2.9.0-1.dsc
 Build-Architecture: amd64
-Build-Date: Mon, 20 Feb 2017 11:20:47 -0800
+Build-Date: Mon, 20 Feb 2017 11:25:32 -0800
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.utf8"
@@ -23,4 +23,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1487618260"
+ SOURCE_DATE_EPOCH="1487618670"
