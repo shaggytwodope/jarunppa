@@ -1,0 +1,26 @@
+Format: 0.2
+Source: buku
+Binary: buku
+Architecture: source
+Version: 2.8-4
+Checksums-Md5:
+ 26aecbe81ed3411371e0090e5916b1f4 868 buku_2.8-4.dsc
+Checksums-Sha1:
+ fca4f52e1e8a225067a9ec518fa0be1d762fdaa9 868 buku_2.8-4.dsc
+Checksums-Sha256:
+ d5b51ade62bce58b76eb8e08708937248237e331d262e7175410e176a4d83c47 868 buku_2.8-4.dsc
+Build-Architecture: amd64
+Build-Date: Tue, 10 Jan 2017 20:43:25 -0800
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1484109788"

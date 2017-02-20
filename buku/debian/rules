@@ -1,24 +1,6 @@
 #!/usr/bin/make -f
 %:
-	dh $@ 
+	dh $@
 
-clean:
-	dh_clean
-
-
-binary-arch: clean
-	dh_prep
-	dh_installdirs
-	dh_install buku /usr/bin/
-	gzip -c buku.1 > buku.1.gz
-	dh_install buku.1.gz /usr/share/man/man1
-	dh_install README.md /usr/share/doc/buku
-	dh_strip
-	dh_compress
-	dh_fixperms
-	dh_installdeb
-	dh_gencontrol
-	dh_md5sums
-	dh_builddeb
-
-binary: binary-arch
+override_dh_auto_install:
+		$(MAKE) PREFIX=/usr DESTDIR=$(CURDIR)/debian/buku install
