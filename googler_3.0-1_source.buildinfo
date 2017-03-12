@@ -1,0 +1,26 @@
+Format: 0.2
+Source: googler
+Binary: googler
+Architecture: source
+Version: 3.0-1
+Checksums-Md5:
+ 64ec9a2c108a36d5067c4f49e9915157 904 googler_3.0-1.dsc
+Checksums-Sha1:
+ cbdce009a5019124ae4e436d6928febe55bfcf87 904 googler_3.0-1.dsc
+Checksums-Sha256:
+ c1b41529efe35979d6cefb315c76056403e1bfe57a09b4ea041798846b79112d 904 googler_3.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Sun, 12 Mar 2017 10:30:32 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1489339782"
