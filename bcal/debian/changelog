@@ -1,3 +1,9 @@
+bcal (1.5-1) yakkety; urgency=medium
+
+  * 1.5 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 10 Apr 2017 07:51:40 -0700
+
 bcal (1.4-2) trusty; urgency=medium
 
   * 32bit broken
