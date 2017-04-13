@@ -1,0 +1,26 @@
+Format: 0.2
+Source: bcal
+Binary: bcal
+Architecture: source
+Version: 1.5-1
+Checksums-Md5:
+ 04052bca906c7defa1d45cad67615421 886 bcal_1.5-1.dsc
+Checksums-Sha1:
+ fb7082b976d13bf1924ec444e92b0247ba25f403 886 bcal_1.5-1.dsc
+Checksums-Sha256:
+ 0367c3547766ceb6e2b095527996276362ee436aac99b879d3af41fb251d8741 886 bcal_1.5-1.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 10 Apr 2017 07:52:13 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1491835900"

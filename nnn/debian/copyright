@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: nn
+Upstream-Contact: Johnathan Jenkins <twodopeshaggy@gmail.com>
+Source: https://github.com/jarun/nnn
+
+Files: *
+Copyright: 2017 Arun Prakash Jana
+License: Custom

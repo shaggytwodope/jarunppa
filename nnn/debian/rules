@@ -1,0 +1,25 @@
+#!/usr/bin/make -f
+%:
+	dh $@ 
+
+clean:
+	dh_clean
+
+
+binary-arch: clean
+	dh_prep
+	dh_installdirs
+	make
+	dh_install nnn /usr/bin/
+	gzip -c nnn.1 > nnn.1.gz
+	dh_install nnn.1.gz /usr/share/man/man1
+	dh_install README.md /usr/share/doc/nnn
+	dh_strip
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-arch
