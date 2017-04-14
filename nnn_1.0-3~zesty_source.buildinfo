@@ -1,0 +1,26 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.0-3~zesty
+Checksums-Md5:
+ 3406f5427bc9ca12de4653fad361cf67 929 nnn_1.0-3~zesty.dsc
+Checksums-Sha1:
+ fe2a9e579182257aeda95c77bbdcc17139464b48 929 nnn_1.0-3~zesty.dsc
+Checksums-Sha256:
+ e4cb41de49fc69eaedd831d0006f0e50d3e5ef6cb2b323115a97203e7bcaa99d 929 nnn_1.0-3~zesty.dsc
+Build-Architecture: amd64
+Build-Date: Fri, 14 Apr 2017 09:00:45 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1492185609"

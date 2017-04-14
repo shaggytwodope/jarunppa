@@ -1,0 +1,26 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.0-3~yakkety
+Checksums-Md5:
+ a7179469cc11f1182c2e1f92abd600c2 937 nnn_1.0-3~yakkety.dsc
+Checksums-Sha1:
+ 9cebf79e07bdc6e3c49f9da6107b5e53d088d98b 937 nnn_1.0-3~yakkety.dsc
+Checksums-Sha256:
+ d757fb542cc667dbe0a908a4cbdccbc0bbd0d32b9e0158ec66248ba0928f3a1c 937 nnn_1.0-3~yakkety.dsc
+Build-Architecture: amd64
+Build-Date: Fri, 14 Apr 2017 09:01:24 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1492185657"

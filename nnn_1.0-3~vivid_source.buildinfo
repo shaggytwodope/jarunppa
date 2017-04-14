@@ -1,0 +1,26 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.0-3~vivid
+Checksums-Md5:
+ f7dd8af4c1b37357120e4d963960f5ea 929 nnn_1.0-3~vivid.dsc
+Checksums-Sha1:
+ b034b14560e833845f9c6731b5d5566a7ad5f042 929 nnn_1.0-3~vivid.dsc
+Checksums-Sha256:
+ 870f66fcfbbf813f13908d64d64522b239923da131cb08a7ce1adda846899b5f 929 nnn_1.0-3~vivid.dsc
+Build-Architecture: amd64
+Build-Date: Fri, 14 Apr 2017 08:58:47 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1492185493"

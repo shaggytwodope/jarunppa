@@ -1,0 +1,26 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.0-3~xenial
+Checksums-Md5:
+ fff9599081cc3e8824923e3193b50d7b 933 nnn_1.0-3~xenial.dsc
+Checksums-Sha1:
+ faa6079ce2dc4004da4b005c19457535c1fc3ebd 933 nnn_1.0-3~xenial.dsc
+Checksums-Sha256:
+ a9a255e97f62a08acc14044164a6d20bfda563431918f2d23b5b0a5bc2e45dd2 933 nnn_1.0-3~xenial.dsc
+Build-Architecture: amd64
+Build-Date: Fri, 14 Apr 2017 08:59:32 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ LC_ADDRESS="en_US.UTF-8"
+ LC_IDENTIFICATION="en_US.UTF-8"
+ LC_MEASUREMENT="en_US.UTF-8"
+ LC_MONETARY="en_US.UTF-8"
+ LC_NAME="en_US.UTF-8"
+ LC_NUMERIC="en_US.UTF-8"
+ LC_PAPER="en_US.UTF-8"
+ LC_TELEPHONE="en_US.UTF-8"
+ LC_TIME="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1492185545"

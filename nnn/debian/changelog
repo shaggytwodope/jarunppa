@@ -1,3 +1,45 @@
+nnn (1.0-3~yakkety) yakkety; urgency=medium
+
+  * build for yakkety 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 09:00:57 -0700
+
+nnn (1.0-3~zesty) zesty; urgency=medium
+
+  * build for zesty 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 09:00:09 -0700
+
+nnn (1.0-3~xenial) xenial; urgency=medium
+
+  * build for xenial
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 08:59:05 -0700
+
+nnn (1.0-3~vivid) vivid; urgency=medium
+
+  * build for vivid 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 08:58:13 -0700
+
+nnn (1.0-3~precise) precise; urgency=medium
+
+  * build for ubuntu precise 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 08:54:51 -0700
+
+nnn (1.0-3~trusty) trusty; urgency=medium
+
+  * rebuild attempts 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 08:32:08 -0700
+
+nnn (1.0-2) zesty; urgency=medium
+
+  * version bump for ncurses rebuild 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 14 Apr 2017 08:18:58 -0700
+
 nnn (1.0-1) zesty; urgency=medium
 
   * 1.0 release
