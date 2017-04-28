@@ -1,3 +1,9 @@
+googler (3.1-1) UNRELEASED; urgency=medium
+
+  * 3.1 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 27 Apr 2017 23:12:42 -0700
+
 googler (3.0-1) yakkety; urgency=medium
 
   * 3.0 release 
