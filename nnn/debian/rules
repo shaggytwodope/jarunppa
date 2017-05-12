@@ -11,6 +11,7 @@ binary-arch: clean
 	dh_installdirs
 	make
 	dh_install nnn /usr/bin/
+	dh_install nlay /usr/bin/
 	gzip -c nnn.1 > nnn.1.gz
 	dh_install nnn.1.gz /usr/share/man/man1
 	dh_install README.md /usr/share/doc/nnn
