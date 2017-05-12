@@ -1,0 +1,17 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.1-1~artful
+Checksums-Md5:
+ 6062ec460a293c5034dad1442b0a089c 950 nnn_1.1-1~artful.dsc
+Checksums-Sha1:
+ b3b714aa0cffce92ab93ea179253c4013192accf 950 nnn_1.1-1~artful.dsc
+Checksums-Sha256:
+ a7aa7a1477da1e399be61954fda31016804500a8b500f0fb88f1f5d673f278b3 950 nnn_1.1-1~artful.dsc
+Build-Architecture: amd64
+Build-Date: Thu, 11 May 2017 20:53:43 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1494561142"
