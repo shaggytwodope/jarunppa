@@ -1,7 +1,7 @@
 Source: nnn
 Section: misc
 Priority: optional
-Build-Depends: debhelper (>= 9), libncurses5-dev , libncursesw5-dev, libreadline-dev
+Build-Depends: debhelper (>= 9), libncurses5-dev , libncursesw5-dev, libreadline-dev, pkg-config
 Maintainer: Johnathan Jenkins <twodopeshaggy@gmail.com>
 Standards-Version: 3.9.2
 Homepage: https://github.com/jarun/nnn/

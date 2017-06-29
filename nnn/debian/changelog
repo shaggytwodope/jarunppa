@@ -1,3 +1,87 @@
+nnn (1.2-2~artful) artful; urgency=medium
+
+  * fix
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:37:47 -0700
+
+nnn (1.2-2~precise) precise; urgency=medium
+
+  * fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:37:08 -0700
+
+nnn (1.2-2~trusty) trusty; urgency=medium
+
+  * fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:36:42 -0700
+
+nnn (1.2-2~vivid) vivid; urgency=medium
+
+  * fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:36:20 -0700
+
+nnn (1.2-2~xenial) xenial; urgency=medium
+
+  * fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:35:51 -0700
+
+nnn (1.2-2~yakkety) yakkety; urgency=medium
+
+  * fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:29:44 -0700
+
+nnn (1.2-2~zesty) zesty; urgency=medium
+
+  * fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:28:41 -0700
+
+nnn (1.2-1~zesty) zesty; urgency=medium
+
+  * 1.2 zesty release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:21:09 -0700
+
+nnn (1.2-1~yakkety) yakkety; urgency=medium
+
+  * 1.2 yakkety release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:20:34 -0700
+
+nnn (1.2-1~xenial) xenial; urgency=medium
+
+  * 1.2 xenial release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:20:00 -0700
+
+nnn (1.2-1~vivid) vivid; urgency=medium
+
+  * 1.2 vivid release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:19:23 -0700
+
+nnn (1.2-1~trusty) trusty; urgency=medium
+
+  * 1.2 trusty release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:18:39 -0700
+
+nnn (1.2-1~artful) artful; urgency=medium
+
+  * 1.2 artful release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:16:41 -0700
+
+nnn (1.2-1~precise) precise; urgency=medium
+
+  * 1.2 trusty release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 28 Jun 2017 22:15:38 -0700
+
 nnn (1.1-1~precise) precise; urgency=medium
 
   * 1.1 release 
