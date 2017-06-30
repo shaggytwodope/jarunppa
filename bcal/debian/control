@@ -1,7 +1,7 @@
 Source: bcal
 Section: misc
 Priority: optional
-Build-Depends: debhelper (>= 9), libquadmath0
+Build-Depends: debhelper (>= 9), libquadmath0, python3
 Maintainer: Johnathan Jenkins <twodopeshaggy@gmail.com>
 Standards-Version: 3.9.2
 Homepage: https://github.com/jarun/bcal/

@@ -1,3 +1,15 @@
+bcal (1.6-2) artful; urgency=medium
+
+  * 1.6 fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 29 Jun 2017 20:08:55 -0700
+
+bcal (1.6-1) artful; urgency=medium
+
+  * 1.6 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 29 Jun 2017 19:58:38 -0700
+
 bcal (1.5-1) yakkety; urgency=medium
 
   * 1.5 release
