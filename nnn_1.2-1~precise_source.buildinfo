@@ -1,0 +1,17 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.2-1~precise
+Checksums-Md5:
+ ca644255b7b94fca8285202951a7d51a 954 nnn_1.2-1~precise.dsc
+Checksums-Sha1:
+ 94984567b9f001ed0743ed61857d048cc35aa70a 954 nnn_1.2-1~precise.dsc
+Checksums-Sha256:
+ 8f94dec3aca83482961e8bd39f982f48616d79d6be83e0c31ef3a07fe25ec0b0 954 nnn_1.2-1~precise.dsc
+Build-Architecture: amd64
+Build-Date: Wed, 28 Jun 2017 22:17:36 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1498713338"

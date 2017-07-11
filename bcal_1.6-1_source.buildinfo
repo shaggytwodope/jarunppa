@@ -1,0 +1,17 @@
+Format: 0.2
+Source: bcal
+Binary: bcal
+Architecture: source
+Version: 1.6-1
+Checksums-Md5:
+ 7d2630a44ba30a9e765e133e57cc5553 886 bcal_1.6-1.dsc
+Checksums-Sha1:
+ fc82827682e0fd17d725d945e3d06b6cd1cf7dfb 886 bcal_1.6-1.dsc
+Checksums-Sha256:
+ c8faf5a164eb8b9e0eed4c4d5e3cd214706ab19d7e337a1efdfcf800d6985100 886 bcal_1.6-1.dsc
+Build-Architecture: amd64
+Build-Date: Thu, 29 Jun 2017 19:59:58 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1498791518"

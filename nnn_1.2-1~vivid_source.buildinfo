@@ -1,0 +1,17 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.2-1~vivid
+Checksums-Md5:
+ 576bcc49c48c0de750528220b24d2ef6 946 nnn_1.2-1~vivid.dsc
+Checksums-Sha1:
+ 8c837f4dd73745dbea829b8899241166f55e30ad 946 nnn_1.2-1~vivid.dsc
+Checksums-Sha256:
+ d1ec4c35ec0e288c1daabd92f4ce45bfac8b2c6687f45f7d8394410f96c8831a 946 nnn_1.2-1~vivid.dsc
+Build-Architecture: amd64
+Build-Date: Wed, 28 Jun 2017 22:19:50 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1498713563"

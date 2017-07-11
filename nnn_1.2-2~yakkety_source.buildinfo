@@ -1,0 +1,17 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.2-2~yakkety
+Checksums-Md5:
+ f1ccb447cf75042730cff45a9a8069d7 966 nnn_1.2-2~yakkety.dsc
+Checksums-Sha1:
+ d43ace2b32e308cd15a74702d2d8cb6b47a9eb96 966 nnn_1.2-2~yakkety.dsc
+Checksums-Sha256:
+ f9a3f9c8d626ccfb42eb6640c862b10db3b92451f78d139aedc8326efc2b0c0d 966 nnn_1.2-2~yakkety.dsc
+Build-Architecture: amd64
+Build-Date: Wed, 28 Jun 2017 22:35:40 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1498714184"

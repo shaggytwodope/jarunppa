@@ -1,0 +1,17 @@
+Format: 0.2
+Source: buku
+Binary: buku
+Architecture: source
+Version: 3.1.0-1
+Checksums-Md5:
+ ffe2a35e013ac8261e16fee562d865ab 882 buku_3.1.0-1.dsc
+Checksums-Sha1:
+ 311d08cf6c17721721a5ebaafa1e6982f5cf37a5 882 buku_3.1.0-1.dsc
+Checksums-Sha256:
+ 5589fc22125e6e85d3dbf77443151cd88d147a943391d3410ee5a681177cb278 882 buku_3.1.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 10 Jul 2017 19:57:34 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1499741763"

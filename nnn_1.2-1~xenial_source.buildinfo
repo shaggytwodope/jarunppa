@@ -1,0 +1,17 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.2-1~xenial
+Checksums-Md5:
+ 4cc7dc43cdb07c111ee481a5651ea5cc 950 nnn_1.2-1~xenial.dsc
+Checksums-Sha1:
+ 7e1149ddb9506a089d7755142db5232f5b64005f 950 nnn_1.2-1~xenial.dsc
+Checksums-Sha256:
+ 3fc04e53bc9d1c7d0b05f3370d73dae8760539d6b00c7300d6afb84d86c14775 950 nnn_1.2-1~xenial.dsc
+Build-Architecture: amd64
+Build-Date: Wed, 28 Jun 2017 22:20:25 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1498713600"

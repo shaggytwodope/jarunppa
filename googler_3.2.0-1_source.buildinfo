@@ -1,0 +1,17 @@
+Format: 0.2
+Source: googler
+Binary: googler
+Architecture: source
+Version: 3.2.0-1
+Checksums-Md5:
+ dbcd5763fe1539da8ea7a1eb41f5397b 918 googler_3.2.0-1.dsc
+Checksums-Sha1:
+ c5f2758e9402f4db2e4a3dd6f3f2b7d2d1e6c4ca 918 googler_3.2.0-1.dsc
+Checksums-Sha256:
+ b4b53014f6a64cba2a27f43c1b1a03c4b00b8bda80488988013970a5801bb1db 918 googler_3.2.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Thu, 06 Jul 2017 16:25:18 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.utf8"
+ SOURCE_DATE_EPOCH="1499383325"

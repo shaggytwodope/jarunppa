@@ -1,3 +1,9 @@
+buku (3.1.0-1) artful; urgency=medium
+
+  * 3.1 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 10 Jul 2017 19:56:03 -0700
+
 buku (2.9.0-2) zesty; urgency=medium
 
   * depends fix 
