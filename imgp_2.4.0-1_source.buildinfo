@@ -1,0 +1,17 @@
+Format: 0.2
+Source: imgp
+Binary: imgp
+Architecture: source
+Version: 2.4.0-1
+Checksums-Md5:
+ 230d8fd5294ae7565c4af5c1a1dc22bb 882 imgp_2.4.0-1.dsc
+Checksums-Sha1:
+ 1b9200abae00e4ca774d577ce5967354c264da0e 882 imgp_2.4.0-1.dsc
+Checksums-Sha256:
+ 849b994eddf292530144ee0a38403813d30e6c1c89bc93d52f3d2e90b118c204 882 imgp_2.4.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 24 Jul 2017 06:57:32 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1500904169"
