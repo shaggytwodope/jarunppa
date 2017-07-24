@@ -1,3 +1,9 @@
+imgp (2.4-1) artful; urgency=medium
+
+  * 2.4 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 24 Jul 2017 06:49:29 -0700
+
 imgp (2.2-0) wily; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
