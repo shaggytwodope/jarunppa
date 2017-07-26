@@ -4,14 +4,14 @@ Binary: nnn
 Architecture: source
 Version: 1.2-2~artful
 Checksums-Md5:
- 841f38e36c41ccbabeef8f5de08eed8d 962 nnn_1.2-2~artful.dsc
+ c819e4d4fc932377ec8ab596acf307ba 962 nnn_1.2-2~artful.dsc
 Checksums-Sha1:
- a5c7d2a28644430600c0d24348b84e86ce221195 962 nnn_1.2-2~artful.dsc
+ a747bf641bca7b389abbee3b32bbd9ca6ed5c41d 962 nnn_1.2-2~artful.dsc
 Checksums-Sha256:
- ea263f4221c75eb6699f12f44bb96dc050da7c9a3874136a1639287e4007a768 962 nnn_1.2-2~artful.dsc
+ 271af7a972b054ad316d0b0c1e5828e9ef843573fac8405904377a6bdc8d635a 962 nnn_1.2-2~artful.dsc
 Build-Architecture: amd64
-Build-Date: Wed, 28 Jun 2017 22:38:20 -0700
+Build-Date: Tue, 25 Jul 2017 23:11:00 -0700
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
- LANG="en_US.utf8"
+ LANG="en_US.UTF-8"
  SOURCE_DATE_EPOCH="1498714667"

@@ -1,0 +1,17 @@
+Format: 0.2
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.3-0~zesty
+Checksums-Md5:
+ cb90f279a6c2dc16d88c0a42b8914358 958 nnn_1.3-0~zesty.dsc
+Checksums-Sha1:
+ ce217fe2c6f84333bbbaef716b554b0857629ad3 958 nnn_1.3-0~zesty.dsc
+Checksums-Sha256:
+ 8d8245cd8f0bdf5e47c86f4868799b06664f7f0ed9640dc2b103d412d6e04f7a 958 nnn_1.3-0~zesty.dsc
+Build-Architecture: amd64
+Build-Date: Tue, 25 Jul 2017 23:13:42 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1501049529"
