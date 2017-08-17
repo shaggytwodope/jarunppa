@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: googler
+Binary: googler
+Architecture: source
+Version: 3.3.0-1
+Checksums-Md5:
+ faec8261a5a8ee5dade188b6f9c1f17d 1456 googler_3.3.0-1.dsc
+Checksums-Sha1:
+ 8876653a07a5b9be480060c19b27db08b0d0ed52 1456 googler_3.3.0-1.dsc
+Checksums-Sha256:
+ a93a910d7d3925ef8eacecb22c67660c4d03bf16d340dbe94d0ba7f4e8db8f68 1456 googler_3.3.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Thu, 17 Aug 2017 11:04:11 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1502993027"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlmV2pwACgkQcIbpzH7D
+IzvPFwf/f9OZo043qlTm77k8PU9Mb1hMfMMjKlCRPMt72CUVKPQSHqxiXx+PyDGl
+0Y5oFpQ8hZINmitOk1JHJ0A9offzeyQCjg1lSArSf27TP356tqJ9+SXEIla2+6CZ
+ihK/SxlZfBDREpAqdyHKMlmkOkgqURAnIWIclqhuEGC0hILKiBTtjQmaLDqNRGl5
+Dx6vTyAh5RpzH1Mgf+UZiSDinIGJr7AoVjCcrq+FuTNyu07f4mnrER8bJuxRpfm5
+3N6/iFJu2dJrhD6zObt71v+GZAlVRmOG2098a9OtlZ4L2jmzjC10g8g2DLWaaoKV
+/mfwmVWWcU1DgwtAhFwvN5hnh9ZFVw==
+=1nC+
+-----END PGP SIGNATURE-----
