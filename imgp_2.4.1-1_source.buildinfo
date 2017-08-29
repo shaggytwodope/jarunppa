@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: imgp
+Binary: imgp
+Architecture: source
+Version: 2.4.1-1
+Checksums-Md5:
+ fab160276e3515c34cd3d17d1ad67d1f 1420 imgp_2.4.1-1.dsc
+Checksums-Sha1:
+ 9ea14ba73af6354fbc331eeef0d3f386bed0d83b 1420 imgp_2.4.1-1.dsc
+Checksums-Sha256:
+ aa7229120b3a42db48508f61f5c689323d3e1284035994668cb7b9415f445a9b 1420 imgp_2.4.1-1.dsc
+Build-Architecture: amd64
+Build-Date: Tue, 29 Aug 2017 11:43:18 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1504032169"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlmltcYACgkQcIbpzH7D
+IzsL1Af/fu4CyiTUUgoklhiVpk/7suypTcpj8LYd12gO4/z3nMOSPB1KQLXiEOv7
+CXo9Jm5043OyHo7kHUPfBnuChv5EBjVE2t5qgQFn0JroCkTYNyAY29zLXMlDUUW2
+p8nIdJ2qrEeFij5Fp5qB1ZCG1vft4272Stfv/O0jMTkcP7xbQe8MBfLhq6W0n1sY
+9sZ2EpfBUbJOZpg/0tWkPEhOOex/s9tFYWS1kD+O10LevN8GA1U4WlN/FBLiFKzA
+WMbQRC9S2JfoR7V4dqSO1u/6gNW6GRn8Cau632i68K7Ce1WF6EuoMdaUxVUzBJ7F
+gdn+veT5DrzDU7P/yqc9UoFrxYBvSw==
+=VW6B
+-----END PGP SIGNATURE-----
