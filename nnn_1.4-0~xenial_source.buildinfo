@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.4-0~xenial
+Checksums-Md5:
+ dd58ffeae08b568a555943aa261772bd 1500 nnn_1.4-0~xenial.dsc
+Checksums-Sha1:
+ 4151fb6cf9271e1a862299deccf9603c1d056cc5 1500 nnn_1.4-0~xenial.dsc
+Checksums-Sha256:
+ b7ecf3556a24d811e561cd58c53a346c3b9b200592a12c9f8da6ab619db8b249 1500 nnn_1.4-0~xenial.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 04 Sep 2017 00:08:13 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1504508871"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlms+90ACgkQcIbpzH7D
+IzsjTAf/RATUQDwmUUz0WyrwNroELQXs716WZQ8C2UZi9i0M67hH23wUjvi0o8CM
+96aKST209eVOrjwi4tUwLJ/ddlhfWETa/GMeXCup3nQXgUHCAzBi4UH2IuBf77ta
+iyEAoe+F50FC8y98q8LxTZR4eTBoWhjuUBB1NoebkzjhC0It7YT7tVYCmryjhEGW
+5jJqwjz7hi/1U/kV2xwKZdSaV+hr+x/bthFRa071rKm5ZVrLCzXSFMaumE5HiQDn
+eYUEj/KVR4MMSf/G9ZEQwjVRzfgLtZnrlrcT24wKpLuoWB3sqZ8gLaPlXqAwFD4I
+/yUb6KWusUOFLZzIPSL70gitBXvsoQ==
+=fmfj
+-----END PGP SIGNATURE-----

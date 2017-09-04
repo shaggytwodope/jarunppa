@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.4-0~zesty
+Checksums-Md5:
+ 7c2855751f9321b7f2eee38c19ddadf4 1496 nnn_1.4-0~zesty.dsc
+Checksums-Sha1:
+ a0a1bf8b5154be4d364f56b62e61e50dd6706f31 1496 nnn_1.4-0~zesty.dsc
+Checksums-Sha256:
+ 76aecbe0f7b480d48542fc6307ee6451534ee8736e00316965f9eff16f9fc5a4 1496 nnn_1.4-0~zesty.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 04 Sep 2017 00:08:42 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1504508901"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlms+/oACgkQcIbpzH7D
+IzsYjAf6Ak3gPDB1Y+3M+Ax8yfJNZA0VEig4atj7mZDLqpH5nwj02IaCUR12ebBM
+zZpGHICIveOhKWCXcmvEywMJj1wm5zDGLtyot18zNjVx7YFTpHWDTAt0mP2v/MlO
+UCXHVHce7TUgdV/Kz8EPf6VoKudicXBiiSsYIURRDtunVesvSdiEn4183f6wMz0b
+6CrJ+67nd3ciQ+d0Rfwehpq3lMrC1YbrUjJ2Raij1cPgOD88cCBrp2dkndfzamUU
+kdRFrOA3Isd9rXh6ZmcofF2Rpuag38YHXvYb3oErN8FLx5nbJ9O6ADCmxsRvmP5S
+onEUk/67yOJEM7nE5tRQnUG0Ds1pNw==
+=Q8Qc
+-----END PGP SIGNATURE-----

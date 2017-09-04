@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.4-0~artful
+Checksums-Md5:
+ a3371693a50423268a77ed33ea168c05 1500 nnn_1.4-0~artful.dsc
+Checksums-Sha1:
+ dbccd2559f95469e22f8edc2f5435ba0aada3d41 1500 nnn_1.4-0~artful.dsc
+Checksums-Sha256:
+ 3901a016b32ecb8d8fc4022e0fad940456dfeda7edbfe67f80367055ce2291c5 1500 nnn_1.4-0~artful.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 04 Sep 2017 00:05:44 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1504508717"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlms+0gACgkQcIbpzH7D
+IztyNAf+MKsqNcoNJKBISstF63JaVuIztEY92BEmpwdhiL5jpj7nqgSrrsHEiIrh
+sD5ybAm9On8UjnGrD8pizdSbtdhtCdBH2XYA+ndgISgafKosD8z5AmPtyNOdcEi1
+pfCiGRSl+RFHiOzjWv+nHIsq1AYX7CPy6cvG0DVI0figQ5/rcwUVttCkBFpTCTk1
+y0/o2TPeVPxPCPoIrOOesfjXyM3aRsVAnq/wJjkOTzcsRBU90nmxCaBXldFQeBhz
+y+H3Xl+SpBL/hVXIn8jY68c/H5pqSDrtVT9Rhi6Kij/cfTk8i5O/nsyW+6VG6nNt
+tUvDpP0ZtzDXDxV4y2tID4pq1xdbpQ==
+=dSH4
+-----END PGP SIGNATURE-----
