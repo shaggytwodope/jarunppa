@@ -11,5 +11,5 @@ Vcs-Browser: https://github.com/jarun/nnn.git
 Package: nnn
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Architecture: i386 amd64
-Description: Free, fast, friendly file browser.
+Description: The missing terminal file browser for X.
  See https://github.com/jarun/nnn#readme.

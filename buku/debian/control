@@ -11,5 +11,5 @@ Vcs-Browser: https://github.com/jarun/buku.git
 Package: buku
 Depends: ${shlibs:Depends}, ${misc:Depends}, python3 (>= 3.3), python3-crypto, python3-bs4, python3-urllib3, python3-requests
 Architecture: all
-Description: Powerful command-line bookmark manager
+Description: Powerful command-line bookmark manager.
  See https://github.com/jarun/Buku#readme.

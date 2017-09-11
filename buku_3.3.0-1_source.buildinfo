@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: buku
+Binary: buku
+Architecture: source
+Version: 3.3.0-1
+Checksums-Md5:
+ b9d5badf7da037493eea6488d558f548 1420 buku_3.3.0-1.dsc
+Checksums-Sha1:
+ 528b3295f2649a889ec5cba35b29e8e84e7cf5bd 1420 buku_3.3.0-1.dsc
+Checksums-Sha256:
+ 0e1c0d8158770456f87bcfa1a55a1ae8079bc702ae8075682237c682deb26dbd 1420 buku_3.3.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Sun, 10 Sep 2017 16:37:59 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1505086661"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlm1zNcACgkQcIbpzH7D
+IzuGFwf+Ph+4SWp1zLvExR9ZX6tIITbvhfzp+pdsfACosoQSXz6/DnidFbDoXJHI
+rs9i1rM/yhkW0U1nepuSccVLiKWuQPxWgCIYXCV6uVZBTaqBiweHbJBuZRW0stKS
+x6iZLETL4EBh1UNp6Xk2Gu0hSMZ2rkcO4Yxt+Yp0Rg6ILtnslBIrfAOf0gwZ4pnC
+Et1gyPnEtatSlBzgUthDdzO+Jg0d1r+k9qAXwJy7qjEqPsmPTdmd6kBTC5LHsvEb
+KKbn3SZOCJMY/7cNrCmebSZdFKrVA9uaV57XRbGBxfQhpBFpu5gypkeIZVI88hZI
+p7ZulgkcWKBfxw1E5DAJIHE+ZFufow==
+=kLco
+-----END PGP SIGNATURE-----

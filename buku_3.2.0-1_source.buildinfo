@@ -7,13 +7,13 @@ Binary: buku
 Architecture: source
 Version: 3.2.0-1
 Checksums-Md5:
- b73b41f43c9a3847f1cbfcf39fff8275 1420 buku_3.2.0-1.dsc
+ 049c6a31352a4b4cdaaf3c6baf74a572 1420 buku_3.2.0-1.dsc
 Checksums-Sha1:
- 798f2b265b7fe690fe009ccbf22c6ed504dcf723 1420 buku_3.2.0-1.dsc
+ f9008a26206b04d72a581a6b0d5e30992b9da198 1420 buku_3.2.0-1.dsc
 Checksums-Sha256:
- 5d54a2f5ba4158de0b8975f9d254d64295d9d2a70f918c51d4f11a7f501c7096 1420 buku_3.2.0-1.dsc
+ 9b220ac0a34e74f65b63d88c7a2f6574b47af3ad0f92238d4a63882054ba72c5 1420 buku_3.2.0-1.dsc
 Build-Architecture: amd64
-Build-Date: Wed, 02 Aug 2017 21:30:49 -0700
+Build-Date: Sun, 10 Sep 2017 16:37:34 -0700
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
@@ -21,12 +21,12 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlmCpvkACgkQcIbpzH7D
-IztIQQf/YobOcbE3gTFd7nS6vxTeGHBOikOcQ0xL1x4QouGNJi7aURNc5qNxI5Ci
-pDdDjY8WFA/Mho0asgJJ5un7tNb3p7p0jCOAUSEvE01AvUY4qQ8FpM1+SdZ12Z1X
-kac0s53LWEg5LFM1YnBjO2/szqNO+HcwYEEhRTttCgAHo94L/WPg4uOfFqXr50Ke
-UEDbHycpwb6hG2oqff5HPeCEF6pc+8pxp6FwsnGQPtrSg1WiD5vfxoP+0O2i2LBj
-WI7M99htX7P7BVqkp6BGAQEihtjaWKwH4/E86Arp6YdxFtIU0arHTe5Ns4VJR48B
-rZFCZcEi+9ZtJH0NtbrYgGuRt7/t7g==
-=cKY9
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlm1zL4ACgkQcIbpzH7D
+IzvN1gf+NNzAkLq90uoiIrREP+ZMLn0v66OXt4aTetfOHyNn6fz7/piwlNg9Q0A8
+N/QXUHZFIHAZD0FuIoYUQOHvejPYdmWybdWs1j7Xl/XSG+R0c5twNSVcG17ucWdL
+eAPv/WX6VVHo6wSM7FoF9Mf9rRH9WYDDgsMqGXu6+/6x6ut4eliRMsIDT635E08d
+DvwWJChgv69yuHJhmAYqrSHxwn2po6yOIOPZSEpyo278nMr+F+osD7BLs65zXqO2
+wgoYGqX81kc97ek+j69lYnaKwXzzr548IJsl6be/N4W8J/yIXsvdkD9fXMsKK24G
+9/E/OGOH0QhjUlBRZ6NET5RbCRWSew==
+=9kcg
 -----END PGP SIGNATURE-----

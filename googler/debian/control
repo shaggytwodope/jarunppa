@@ -11,5 +11,5 @@ Vcs-Browser: https://github.com/jarun/googler.git
 Package: googler
 Depends: ${shlibs:Depends}, ${misc:Depends}, python3 (>= 3.3)
 Architecture: all
-Description: Google Search and News from the command-line
+Description: Google from the command-line.
  See https://github.com/jarun/googler#readme.
