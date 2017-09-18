@@ -1,3 +1,9 @@
+buku (3.4.0-1) artful; urgency=medium
+
+  * 3.4 release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 18 Sep 2017 00:55:42 -0700
+
 buku (3.3.1-2) artful; urgency=medium
 
   * 3.3.1 fix summary 
