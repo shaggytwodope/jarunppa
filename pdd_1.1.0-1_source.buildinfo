@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: pdd
+Binary: pdd
+Architecture: source
+Version: 1.1.0-1
+Checksums-Md5:
+ 239486374d2a49ba5c82146cf5a2ec30 1408 pdd_1.1.0-1.dsc
+Checksums-Sha1:
+ 19be6114b028821d9f0a3f06e390e012976cc242 1408 pdd_1.1.0-1.dsc
+Checksums-Sha256:
+ df6691d12609dbec0fd59ed10347d3b7e27d11e0ed7e347cdfd57d92626a3656 1408 pdd_1.1.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Tue, 26 Sep 2017 00:52:39 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1506412307"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlnKB0cACgkQcIbpzH7D
+IztySAgAq9RSe1Lqa+7mDR0m2IpIuNOTiG/RvdZlESVJ9E2I4+QGe7kYJJzvvy5Y
+kXxoU5nA6YpO6PbfNyhuT4TIyngiVlJUcwcmolc/PiZIlENC/UbuDgi4ZMysY5Rt
++z4P3ATTt3zU8dZUWVxTE0o78AMW0kPBGZ2QxCRlA77exYsgcEkUdYVSwDV1OJ8n
+4tCS1yQqY9iLo5TJMqUdsmIUIqmdRDEQp0SUxm7YO4hTvKeFIG0cQWqIdLXdkfdU
+6od5svfUB3LgWBVmVJTAqwdKCJ3TO3YNg0YO64waAEJNj0/3EcM+04yS4TnTguAZ
+Dhe42doawbJddvguWT4O0AR2RcWlVA==
+=h72N
+-----END PGP SIGNATURE-----
