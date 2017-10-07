@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: bcal
+Binary: bcal
+Architecture: source
+Version: 1.7-1
+Checksums-Md5:
+ f0a94ca0ff7fc231c9068cd27f5318f1 1433 bcal_1.7-1.dsc
+Checksums-Sha1:
+ ccd24a9e84715f97bfb653bd7c5f1384b1ad0d82 1433 bcal_1.7-1.dsc
+Checksums-Sha256:
+ 7ded2f819a03b874a6a89726f74ffec757fe0f57000af7896abb4258ea0d81ab 1433 bcal_1.7-1.dsc
+Build-Architecture: amd64
+Build-Date: Sat, 07 Oct 2017 10:57:18 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1507399010"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlnZFX8ACgkQcIbpzH7D
+Izs6tgf7BZM6NLQeQ36N+Rl48aVvLGVr4AHJvXECrrQETG1BebN/eEw6gAjvvbrb
+WFzxjVXwMnKCsEJTlLZoaDg1jfnpLaGz78GjW/tx02Qf2Ujv1wJeg/o/mXQRoF0i
+ibiwUVWMCf5kkEX3FFShsdQ8ecoRFABq5qvMN3ie9ASkN93+r61hrhxGcl7tboV5
+CXdcrjZfrC2+yJ8XSRYx6Mucv6Cnwtg/3ARKZk9RjPItpviAJmHkQLl+G60/8xR2
+tp+MoZNmxQY4SOEgKDIDhwJRYfKg3n1amswXv7gQd9TRBpQMnYhiWG6ZOL8HX44e
+yPU0I19+Mti8YtdoPwngpImlPCoyxw==
+=QAsh
+-----END PGP SIGNATURE-----
