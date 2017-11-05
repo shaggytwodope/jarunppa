@@ -1,0 +1,15 @@
+Source: ddgr
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 9)
+Maintainer: Johnathan Jenkins <twodopeshaggy@gmail.com>
+Standards-Version: 3.9.2
+Homepage: https://github.com/jarun/ddgr/
+Vcs-Git: git://git@github.com:jarun/ddgr.git
+Vcs-Browser: https://github.com/jarun/ddgr.git
+
+Package: ddgr
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3 (>= 3.3)
+Architecture: all
+Description: DuckDuckGo from the terminal.
+ See https://github.com/jarun/ddgr#readme.

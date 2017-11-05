@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: ddgr
+Binary: ddgr
+Architecture: source
+Version: 1.0.0-1
+Checksums-Md5:
+ a0a72a23af208940b6898d69e550e65c 1420 ddgr_1.0.0-1.dsc
+Checksums-Sha1:
+ 0edecdcc72ce9a75906d924593abb78675c7dd63 1420 ddgr_1.0.0-1.dsc
+Checksums-Sha256:
+ 26a76b2dee64757ed276c269c9dce2ff2b681d66eeb2ae0b8148def82c169ba1 1420 ddgr_1.0.0-1.dsc
+Build-Architecture: amd64
+Build-Date: Sun, 05 Nov 2017 07:44:12 -0800
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1509896522"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAln/McwACgkQcIbpzH7D
+IzsiGQf+MqyTx4kVF0lfclB2R/v0hD4OgPfFlrzus8OcEyopbE8C+PEVA6fFqy21
+sNJnrmQeYUmsFmszZABU0N3jrUmID9wvGUciGocILnmemt+zHqUyMz+/T4SWeIyP
+VODi478JJNJ6ifSDzhH2U3jipwt6dEKx8Lr304dYxqeXdfwiX6qxH1QG6mG89oK7
+359Q0ZqRbFqH2Z1MQs+CsnGy4iel7swPRc5TFLg/ekA8AjvvUqxy1wTJA3Trw8PZ
+oY15spdJ0mOcQ1wr6ogAaY2vg1+sHEBRberThSFh2vIQ5Ix5fp24MzvUq02XMRcx
+NlW/R2OLeo9jufuc970aD8wAwSLyDA==
+=s/EQ
+-----END PGP SIGNATURE-----
