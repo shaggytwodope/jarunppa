@@ -1,3 +1,15 @@
+ddgr (1.2.0-1) artful; urgency=medium
+
+  * 1.2 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Fri, 08 Dec 2017 11:12:40 -0800
+
+ddgr (1.1.0-1) artful; urgency=medium
+
+  * 1.1 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 29 Nov 2017 13:35:56 -0800
+
 ddgr (1.0.0-1) artful; urgency=medium
 
   * init 
