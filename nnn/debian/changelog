@@ -1,3 +1,39 @@
+nnn (1.6-0~bionic) bionic; urgency=medium
+
+  * 1.6 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 25 Dec 2017 10:31:58 -0800
+
+nnn (1.6-0~artful) artful; urgency=medium
+
+  * 1.6 release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 25 Dec 2017 10:31:24 -0800
+
+nnn (1.6-0~xenial) xenial; urgency=medium
+
+  * 1.6 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 25 Dec 2017 10:30:47 -0800
+
+nnn (1.6-0~trusty) trusty; urgency=medium
+
+  * 1.6 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 25 Dec 2017 10:30:07 -0800
+
+nnn (1.6-0~precise) precise; urgency=medium
+
+  * 1.6 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 25 Dec 2017 10:27:50 -0800
+
+nnn (1.6-0~zesty) zesty; urgency=medium
+
+  * 1.6 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 25 Dec 2017 10:26:18 -0800
+
 nnn (1.5-0~zesty) zesty; urgency=medium
 
   * 1.5 release 

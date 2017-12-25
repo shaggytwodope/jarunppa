@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.0
+Source: nnn
+Binary: nnn
+Architecture: source
+Version: 1.6-0~bionic
+Checksums-Md5:
+ 50d07fd291504fb1ceed123366890ab9 1500 nnn_1.6-0~bionic.dsc
+Checksums-Sha1:
+ f020c5a1a12295eab161854a581a2cf5d1497979 1500 nnn_1.6-0~bionic.dsc
+Checksums-Sha256:
+ eefb5953ba5b1ddbd27c7de47f84cfd2e4d5b720c000e21e483e232820c0cc34 1500 nnn_1.6-0~bionic.dsc
+Build-Architecture: amd64
+Build-Date: Mon, 25 Dec 2017 10:32:32 -0800
+Environment:
+ DEB_BUILD_OPTIONS="parallel=4"
+ LANG="en_US.UTF-8"
+ SOURCE_DATE_EPOCH="1514226718"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEjxrTjeighUSlUSmBcIbpzH7DIzsFAlpBREAACgkQcIbpzH7D
+IzuGgQgAmfZEBAkF/fuO/dH76ZYfowB+B5nuPeiSd+HpaclJmU3vOtTrke+q0O1K
+TfHBXccvOj+oSO4REOa9EF+qnxlxxJ0scocOTfcj4nKC1tv/J78rStx3XY8OG3JS
+1u0iHsVryWuOzXUtiBItQWjHBefEdcBjPvkS1DXIOc9MnVjGjL1q6/nIt0suxSV0
+2HLrN6hg8/uBH6hw/N7s0qil11Rmd0PUPhd5dImVsgQcYSbmdbV+BmSDohtanLHL
+8cDjEanFXcLwLu6hu+nsiViS+xox9MIIuAfylqaOwzVODDWk4VHs4d2ZsVDf24Ri
+y9dA/8ab7BjKT9mBews2FB4i+6oPOA==
+=cZDc
+-----END PGP SIGNATURE-----
